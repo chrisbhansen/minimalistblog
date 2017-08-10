@@ -1,0 +1,2 @@
+# minimalistblog
+simplest blog possible
